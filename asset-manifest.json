@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-usersignup/static/css/main.5fe1ea35.css",
+    "main.js": "/react-usersignup/static/js/main.06e14a22.js",
+    "index.html": "/react-usersignup/index.html",
+    "main.5fe1ea35.css.map": "/react-usersignup/static/css/main.5fe1ea35.css.map",
+    "main.06e14a22.js.map": "/react-usersignup/static/js/main.06e14a22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe1ea35.css",
+    "static/js/main.06e14a22.js"
+  ]
+}
